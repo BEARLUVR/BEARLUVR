@@ -3,7 +3,7 @@ RAGNA
 KIRYU
 ICHIBAN
 KEN MASTERS
-JIN MISHIMA
+JIN KAZAMA
 
 <!---
 BEARLUVR/BEARLUVR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
